@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abi 👋  <br>Backend developer.<br>Currently building and learning to create scalable web applications.
+Hi, I'm Abi 👋  <br>Junior Backend developer.<br>Currently building and learning to create scalable web applications.
 
 
 ## 🌐 Socials:
